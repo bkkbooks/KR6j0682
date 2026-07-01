@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0682/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楞嚴經正脉疏懸示
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X12/X12n0274.xml
+    old_id: X12n0274
+hash: sha256:ef12d6e4648cd4018d70fc2ac6eb5906919865a3691694664c3aea614b794947

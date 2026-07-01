@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0682/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0682/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楞嚴經正脉疏懸示
+  identifiers:
+    krp: KR6j0682
+    cbeta: X12n0274
+    cbeta_old_id: X12n0274
+    authorityid: CA0002014
+    json_key: X0274
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X12/X12n0274.xml
+    old_id: X12n0274
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0682_000-X.yaml, hash: 'sha256:ef12d6e4648cd4018d70fc2ac6eb5906919865a3691694664c3aea614b794947'}
+  - {seq: 1, filename: KR6j0682_001-X.yaml, hash: 'sha256:b30ebca4330dfce979e120e073cb34c0591dac531e278f6a9a85cc1bb320d8bf'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0682_000-X.markers.yaml, hash: 'sha256:a26d3d5815d6cd6bb545cd1f7e4a59eeca8cf4a85973694289c57e3d4eb1fe3f'}
+  - {seq: 1, role: markers, filename: assets/KR6j0682_001-X.markers.yaml, hash: 'sha256:c4fa729f62a5def47e229cfc0d4e83741b751c0e39d12143697d18473315b328'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0682_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 35678
+  label: 大佛頂首楞嚴經正脉懸示
+  type: juan
+  level: 1
+hash: sha256:c4c7d01eff747284602c637ef4123086d8505c3b53c6b07f95558cd735d4da76

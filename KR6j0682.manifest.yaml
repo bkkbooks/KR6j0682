@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0682_000.yaml, hash: 'sha256:ef12d6e4648cd4018d70fc2ac6eb5906919865a3691694664c3aea614b794947'}
-  - {seq: 1, filename: KR6j0682_001.yaml, hash: 'sha256:2c11104db7e1aaf2e435695f61cce2e800abf8459b95bf31b8806a4a035f4f6f'}
+  - {seq: 1, filename: KR6j0682_001.yaml, hash: 'sha256:b30ebca4330dfce979e120e073cb34c0591dac531e278f6a9a85cc1bb320d8bf'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0682_001.markers.yaml, hash: 'sha256:a8be5b1d0988d25b30534056b2f3809232df9c2c57c58f3970f9ea926f9c70e4'}
+  - {seq: 0, role: markers, filename: assets/KR6j0682_000.markers.yaml, hash: 'sha256:1588b3825a501b6b43e2122014a2c361c77368b7391511cc13a586fd2d8ca878'}
+  - {seq: 1, role: markers, filename: assets/KR6j0682_001.markers.yaml, hash: 'sha256:0343d9b77e540fca8483e2da13e575118a2e7397e04f87789d6dc2a17537d277'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 大佛頂首楞嚴經正脉懸示
   type: juan
   level: 1
-hash: sha256:3f7bf09dff2e9d35e78dfe60ae60facc95b998d19729679ee428470b4a09714a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d9c0b4a0b9978c8e39181d019de8ed366f0fa5f96dc6a758f4f05e2ee55eca59
